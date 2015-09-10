@@ -1,4 +1,4 @@
-# Shardream
+# Sharedream
 ![logo](http://bknation.org/wp-content/uploads/2015/01/bknation_dreams2.jpg.jpg)
 
 It's a practise to combine my knowledge on _Django, MongoDB, Hadoop, Recommendation System, Deep Learning_.
