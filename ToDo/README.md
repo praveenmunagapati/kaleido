@@ -11,3 +11,6 @@
 4. Evaluatation System and Data Collector
 
 5. Integrate DeepDream
+
+6. Data Visualization / Resume Visualization
+
