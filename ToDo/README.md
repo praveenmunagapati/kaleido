@@ -11,3 +11,7 @@
 4. Evaluatation System and Data Collector
 
 5. Integrate DeepDream
+
+6. Deploy on AWS
+
+7. Utilize EMR
