@@ -12,6 +12,11 @@
 
 5. Integrate DeepDream
 
+<<<<<<< HEAD
 6. Deploy on AWS
 
 7. Utilize EMR
+=======
+6. Data Visualization / Resume Visualization
+
+>>>>>>> 35269dd644528788057fdf84b26dc178a9000081
