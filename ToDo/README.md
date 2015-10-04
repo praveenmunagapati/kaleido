@@ -1,5 +1,7 @@
 1. Build Pinteret-like Website quickly
 
+   1.1 Implement Image Carousel 
+
 2. Try to implement Image Analyzers with Various Proposals
 
    2.1 Clustering, Deep Learning, LDA, Collaborative Filtering, Matrix Factorization, etc
