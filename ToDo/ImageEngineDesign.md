@@ -5,7 +5,7 @@ One day, you'd like to build a story online through materails: __Image__ (main c
   
 Back to the implementation question, "__What techniques may be useful for this project ?__"
 
-+ _LSTM_, for memorizing what images you picked
++ _LSTM_, for memorizing what images you picked (history-based, unique-profile)
 
 + _CNN_, for figuring out the patterns. However, it's far from enough. Since what I want to achieve is analyzing the "__ELEMENTS__" in the images, and the way they associate with each other. The "__ELEMENTS__" are not necessarily the "ROI"s, however, should be the key points, like the color patterns.
 
