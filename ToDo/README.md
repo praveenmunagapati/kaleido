@@ -19,3 +19,9 @@
 7. Utilize EMR
 
 8. Data Visualization / Resume Visualization
+
+9. Directions
+
+   9.1 Resume Visualization
+   
+   9.2 More Efficient Communication (turn words into imgs, relationship is important)
