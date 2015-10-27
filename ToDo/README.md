@@ -1,6 +1,8 @@
 1. Build Pinteret-like Website quickly
 
    1.1 Implement Image Carousel 
+   
+   1.2 Implement FlipBook
 
 2. Try to implement Image Analyzers with Various Proposals
 
