@@ -5,6 +5,8 @@
 2. Try to implement Image Analyzers with Various Proposals
 
    2.1 Clustering, Deep Learning, LDA, Collaborative Filtering, Matrix Factorization, etc
+
+       2.1.1 Deep Ranking
    
    2.2 Implement different methods with Customer Feedback Buttons
 
