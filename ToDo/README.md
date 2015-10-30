@@ -1,6 +1,8 @@
 1. Build Pinteret-like Website quickly
 
    1.1 Implement Image Carousel 
+   
+   1.2 Implement FlipBook
 
 2. Try to implement Image Analyzers with Various Proposals
 
@@ -21,3 +23,9 @@
 7. Utilize EMR
 
 8. Data Visualization / Resume Visualization
+
+9. Directions
+
+   9.1 Resume Visualization
+   
+   9.2 More Efficient Communication (turn words into imgs, relationship is important)
