@@ -7,8 +7,8 @@
 2. Try to implement Image Analyzers with Various Proposals
 
    2.1 Clustering, Deep Learning, LDA, Collaborative Filtering, Matrix Factorization, etc
-   
-       _2.1.1 [Deep Ranking](https://github.com/Chasego/Sharedream/blob/master/res/img_similarity/deep_ranking.pdf)
+       
+   ____2.1.1 [Deep Ranking](https://github.com/Chasego/Sharedream/blob/master/res/img_similarity/deep_ranking.pdf)
        
    
    2.2 Implement different methods with Customer Feedback Buttons
