@@ -1,7 +1,7 @@
 # Kovipo
 ![logo](http://bknation.org/wp-content/uploads/2015/01/bknation_dreams2.jpg.jpg)
 
-Kovipo (mixed name from {Greek : κοινό όνειρο , English : Shared Dream)
+__Kovipo__ (mixed name from {Greek : κοινό όνειρο , English : shared dream , Chinese : 共同的梦想})
 
 It's a practise to combine my knowledge on _Django, Tornado, MongoDB, Spark, Recommendation System, Deep Learning_.
 
